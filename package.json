@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "An Islamic Education Institution Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimasfakhri/muzdatulfalah.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimasfakhri/muzdatulfalah/issues"
+  },
+  "homepage": "https://github.com/dimasfakhri/muzdatulfalah#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
